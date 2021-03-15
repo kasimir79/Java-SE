@@ -1,2 +1,2 @@
-# Java-SE
+# Java-EE
 Beginner application project in NetBeans
