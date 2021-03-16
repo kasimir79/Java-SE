@@ -1,5 +1,5 @@
-# Java-SE 
-# Threads-Problem of the five philosophers
+# threads
+# Problem of the five philosophers
 Beginner application project in NetBeans
  @author _Five philosophers are sitting at a table and
 think. After such a great effort they become
